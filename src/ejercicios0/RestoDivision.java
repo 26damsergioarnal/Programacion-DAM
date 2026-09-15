@@ -1,4 +1,4 @@
-package operacione_aritmeticas;
+package ejercicios0;
 
 public class RestoDivision {
 
