@@ -1,4 +1,4 @@
-package Primer_paquete;
+package primer_paquete;
 
 public class PirmeraClaseDentroDeUnPaquete {
 
@@ -6,7 +6,7 @@ public class PirmeraClaseDentroDeUnPaquete {
 		System.out.println("estoy dentro de um paquete"); //Mensaje
 		
 		/*
-		 * hols
+		 * hola
 		 * esto
 		 * es un
 		 * comentario

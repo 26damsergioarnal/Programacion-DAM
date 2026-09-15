@@ -1,6 +1,6 @@
-package ejercicios0;
+package ejercicios00;
 
-public class Ejercicios03 {
+public class Ejercicios03_04 {
 
 	public static void main(String[] args) {
 		String cadena = "que ganas de las 21";

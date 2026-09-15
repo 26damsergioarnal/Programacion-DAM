@@ -1,6 +1,6 @@
-package ejercicios0;
+package ejercicios00;
 
-public class Ejercicio2 {
+public class Ejercicio01_02 {
 
 	public static void main(String[] args) {
 		System.out.println("Primer ejercicio de programacion");

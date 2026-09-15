@@ -1,6 +1,6 @@
-package ejercicios0;
+package ejercicios00;
 
-public class RestoDivision {
+public class Ejercicios05 {
 
 	public static void main(String[] args) {
 		int p = 4;
