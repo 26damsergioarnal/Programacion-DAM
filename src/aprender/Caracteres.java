@@ -1,4 +1,4 @@
-package variables;
+package aprender;
 
 public class Caracteres {
 	public static void main(String[] args) {

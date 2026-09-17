@@ -1,4 +1,4 @@
-package variables;
+package aprender;
 
 public class OperadorTernario {
 

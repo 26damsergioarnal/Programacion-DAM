@@ -1,6 +1,6 @@
-package cuentitas;
+package aprender;
 
-public class NumerosCuentas {
+public class NumeroCuentas {
 	public static void main(String[] args) {
 		int m = 7;
 		int n = 5;
