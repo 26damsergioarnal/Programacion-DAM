@@ -20,7 +20,7 @@ public class Ejercicios17 {
 			compare ? "El numero " + cadena1Conv + " es mayor que el numero " + cadena2Conv : "El numero " + 
 				cadena1Conv + " es menor que el numero " + cadena2Conv);		
 		
-		// Hago un operador ? dentro de otro para poder tener 3 opciones
+			// Hago un operador ? dentro de otro para poder tener 3 opciones
 	}
 
 }
