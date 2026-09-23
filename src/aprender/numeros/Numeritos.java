@@ -1,4 +1,4 @@
-package aprender;
+package aprender.numeros;
 
 public class Numeritos {
 

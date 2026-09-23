@@ -1,4 +1,4 @@
-package aprender;
+package aprender.concidionales.ternarios;
 
 public class TripleOperadorTernatio {
 

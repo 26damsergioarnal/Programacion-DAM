@@ -1,6 +1,6 @@
-package aprender;
+package aprender.string;
 
-public class ContarLetras {
+public class LengthCadena {
 
 	public static void main(String[] args) {
 		String palabra = "LOL";

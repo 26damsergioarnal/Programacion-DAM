@@ -1,6 +1,6 @@
-package aprender;
+package aprender.string;
 
-public class LaCadenaYVariables {
+public class LaCadenaTodo {
 
 	public static void main(String[] args) {
 		String cadena = "hola 123";
@@ -34,7 +34,7 @@ public class LaCadenaYVariables {
 		
 		
 		cadena = "Horchata y fuet fuet fuet";
-		System.out.println(cadena.indexOf("o")); 				// donde esta un o varios caracter es un busca
+		System.out.println(cadena.indexOf("o")); 				// donde esta un o varios caracteres 
 		System.out.println(cadena.indexOf("a"));
 		System.out.println(cadena.indexOf("fuet"));
 		System.out.println(cadena.indexOf("a", 6)); 				// buasca x cadena a partir de x posicion
