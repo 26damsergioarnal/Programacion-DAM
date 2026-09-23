@@ -7,7 +7,8 @@ public class Ejercicios16 {
 		boolean contador = cadena.length() >= 5 ;
 		int cadenaconv = Integer.parseInt(cadena);
 		System.out.println("¿La siguiente cadena tiene 5 o mas cifras? "
-				+ "(\"" + cadena + "\") " + (contador ? "si la cadena " + cadenaconv + " tiene 5 caracateres" : " No tiene 5 caracteres" ));
+				+ "(\"" + cadena + "\") " + (contador ? "Si, la cadena " + 
+				cadenaconv + " tiene 5 caracateres" : " No, no tiene 5 caracteres" ));
 
 	}
 

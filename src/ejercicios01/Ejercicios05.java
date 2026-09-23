@@ -7,7 +7,7 @@ public class Ejercicios05 {
 		//VARIABLES A CAMBIAR
 		int a = 5;
 		int b = 3;
-		int c = 12;
+		int c = -12;
 		
 		// MAYOR O MENOR QUE BOOLEAN
 		boolean aMayor3 = a > 3;

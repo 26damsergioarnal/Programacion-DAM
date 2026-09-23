@@ -4,7 +4,7 @@ public class Ejercicios09 {
 
 	public static void main(String[] args) {
 		
-		int varA = 28;
+		int varA = 75;
 		boolean multiplo3O7Positivo = (varA  % 3 == 0 || varA % 7 == 0) && varA >= 0;
 		
 		System.out.println("¿el numero " + varA + " es multiplo de 3 o de 7 y positivo? " + 
