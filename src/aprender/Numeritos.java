@@ -22,6 +22,9 @@ public class Numeritos {
 		System.out.println("el corot vale: " + corto);
 		System.out.println("4 + 4 es: " + (4+4));
 		
+		System.out.println("ignorar");
+		System.out.println(doble + sencillo + largo + bite + num);
+		
 	}
 
 }

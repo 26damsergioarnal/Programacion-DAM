@@ -61,6 +61,7 @@ public class LaCadenaYVariables {
 		int suma = num1 + num2;
 		
 		String sumaEnCadena = "" + suma; //convierte la suma en cadena de forma guarra
+		System.out.println(sumaEnCadena);
 		//forma correcta
 		String sumaEnCadenaBien = String.valueOf(suma); //convierte la suma en cadena
 		
