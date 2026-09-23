@@ -46,8 +46,9 @@ public class LaCadenaYVariables {
 		System.out.println("es " + url + " una url española? " + url.endsWith(url)); // acaba en...?
 		
 		String grito = cadena;
-		System.out.println(cadena.toUpperCase()); //todo mayusculas
-		System.out.println(cadena.toLowerCase());  //todo minusculas
+		System.out.println(grito.toUpperCase()); //todo mayusculas
+		System.out.println(grito.toLowerCase());  //todo minusculas
+		System.out.println(grito);
 		
 		String persona1 = "Maria Lopez Gonzalez";
 		String persona2 = "Maria Lopez Zapata";

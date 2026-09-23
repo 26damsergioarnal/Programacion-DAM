@@ -15,7 +15,7 @@ public class Ejercicio01 {
 		System.out.println("char (como numero): " + 0 + caracter); //convierte el char en int java 
 		System.out.println("char (como numero): " + ((int) caracter));//convierte un char en un int ya que char mide 8 y un int es 32 
 		int charComoInt = caracter; // tipo de conversio tambien 
-		System.out.println(caracter);
+		System.out.println(charComoInt);
 	}
 
 }

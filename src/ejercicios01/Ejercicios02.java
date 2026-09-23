@@ -12,7 +12,6 @@ public class Ejercicios02 {
 		float floatNum = 2.5f;
 		double doubleNum = 2.5;
 		char caracter = 'Ñ';
-		boolean verdadero = true;
 		// suma resta multiplicacion division resto
 		
 		System.out.println("byte + short: " + (byteNum + cortoNum));
