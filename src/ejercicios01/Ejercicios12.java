@@ -11,7 +11,6 @@ public class Ejercicios12 {
 		
 		System.out.println("el numero doble " + doble + " es " + flotante + " en float");
 		
-		int a = 22;
 		
 	}
 
