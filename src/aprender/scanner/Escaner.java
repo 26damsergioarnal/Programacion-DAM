@@ -1,4 +1,4 @@
-package aprender;
+package aprender.scanner;
 
 import java.util.Scanner; // introduce Scanner porqeu no lo tiene javaland
 
