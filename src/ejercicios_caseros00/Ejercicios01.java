@@ -10,6 +10,5 @@ public class Ejercicios01 {
 		
 		System.out.println("La primera letra de \"" + cadena + "\" es: " + primeraLetra);
 		System.out.println("La ultima letra de \"" + cadena + "\" es: " + ultimaLetra);
-	}
-
+	}	
 }
