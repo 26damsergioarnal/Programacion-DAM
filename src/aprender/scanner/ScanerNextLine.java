@@ -1,14 +1,14 @@
 package aprender.scanner;
 
-import java.util.Scanner; // introduce Scanner porqeu no lo tiene javaland
+import java.util.Scanner; // introduce Scanner porque no lo tiene javaland
 
-public class Escaner {
+public class ScanerNextLine {
 	
 	public static void main(String[] args) {
 			Scanner entrada = new Scanner(System.in); //creo un escanner para na variable (de normal es entrada)
 			
 			System.out.print("Como te llamas? ");
-			String nombre = entrada.nextLine();		//entrada.nexLine() para el programa para qeu escribas
+			String nombre = entrada.nextLine();		//entrada.nexLine() para el programa para que escribas
 													// y eso lo metemos dentro de na cadena
 			
 			System.out.println("bienvenido " + nombre);
