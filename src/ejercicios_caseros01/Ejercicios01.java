@@ -6,7 +6,7 @@ public class Ejercicios01 {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
-		
+		System.out.println("=========BIENVENIDA Y ANALISSI=========");
 		System.out.print("Dame su nombe completo: ");
 		String nombre = entrada.nextLine();
 		

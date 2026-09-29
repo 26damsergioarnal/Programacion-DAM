@@ -6,6 +6,7 @@ public class Ejercicios02 {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
+		System.out.println("=========CALCULADORA EDAD DINAMICA=========");
 		System.out.print("Escriba su año de nacimiento: ");
 		String year = entrada.nextLine();
 		
