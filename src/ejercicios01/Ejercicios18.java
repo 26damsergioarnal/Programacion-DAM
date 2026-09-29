@@ -36,10 +36,9 @@ public class Ejercicios18 {
 		entrada.nextLine();
 		
 		System.out.print("Dame un char: ");
-		entrada.nextLine();
 		char caracter = entrada.nextLine().charAt(0);
 		
-		entrada.nextLine();
+		
 		System.out.println();
 		System.out.println();
 		System.out.println("El byte es: " + bite);
