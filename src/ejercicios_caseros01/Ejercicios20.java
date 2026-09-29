@@ -9,8 +9,9 @@ public class Ejercicios20 {
 		System.out.println("========ANALISTA DE INVENTARIO========");
 		System.out.print("Dime un codifo de producto (Ejemplo: \"MESA-350\"): ");
 		String codigo = entrada.nextLine();
-		boolean num = codigo.substring(codigo.indexOf("-") + 1, codigo.length()) > 500;
-
+		boolean num = Integer.parseInt(codigo.substring(codigo.indexOf("-") + 1, codigo.length())) > 500;
+		System.out.println(num ? "Stok alto" : "Stok normal");
+		entrada.close();
 	}
 
 }
