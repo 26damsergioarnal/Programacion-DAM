@@ -11,7 +11,7 @@ public class Ejercicios09 {
 		String arch = entrada.nextLine();
 		String minus = arch.toLowerCase();
 		System.out.println(minus.endsWith("pdf") ? "Archivo valido" : "Archivo invalido");
-		
+		System.out.println();
 		entrada.close();
 	}
 
