@@ -3,8 +3,8 @@ package ejercicios01;
 public class Ejercicios02 {
 
 	public static void main(String[] args) {
-		
-		//Byte - short - int - long - float - double - char
+
+		// Byte - short - int - long - float - double - char
 		byte byteNum = 1;
 		short cortoNum = 2;
 		int intNum = 32;
@@ -13,13 +13,12 @@ public class Ejercicios02 {
 		double doubleNum = 2.5;
 		char caracter = 'Ñ';
 		// suma resta multiplicacion division resto
-		
+
 		System.out.println("byte + short: " + (byteNum + cortoNum));
 		System.out.println("int - long: " + (intNum - largoNum));
 		System.out.println("char * double: " + (caracter * doubleNum));
 		System.out.println("int / float: " + intNum / floatNum);
 		System.out.println("Resto de int entre double: " + (intNum % doubleNum));
-		
 
 	}
 

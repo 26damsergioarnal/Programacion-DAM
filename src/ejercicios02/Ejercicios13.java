@@ -11,8 +11,8 @@ public class Ejercicios13 {
 		System.out.print("Dame otra cadena: ");
 		String cadena2 = entrada.nextLine();
 		
-		System.out.println(cadena.contains(cadena2) ? "La primera cadena contiene la segunda" : 
-			"La primera cadena no contiene la segunda");
+		System.out.println(cadena2.contains(cadena) ? "La segunda cadena contiene la primera" : 
+			"La segunda cadena no contiene la primera");
 		
 		entrada.close();
 		
